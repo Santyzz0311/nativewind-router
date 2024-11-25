@@ -4,7 +4,7 @@ This template includes configurations for:
 - NativeWind
 - ESLint
 - Prettier
-- React Router
+- Expo Router
 - TypeScript
 
 ### For a more comfortable experience with ESLint, you can add this to your VSCode `settings.json`:
