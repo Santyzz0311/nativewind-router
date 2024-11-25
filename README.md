@@ -1,7 +1,7 @@
 # Template for Expo Project
 
 This template includes configurations for:
-- NativeWind
+- NativeWind v4
 - ESLint
 - Prettier
 - Expo Router
